@@ -1,0 +1,6 @@
+{
+    "error": {
+        "code": "1213",
+        "message": "未正常接收到prompt参数。"
+    }
+}

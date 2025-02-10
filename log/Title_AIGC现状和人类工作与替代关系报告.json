@@ -1,0 +1,21 @@
+{
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "\n{\n  \"title\": \"AIGC现状和人类工作与替代关系报告\",\n  \"content\": \"本报告主要分析了AIGC（人工智能生成内容）的现状，以及其对人类工作的影响和替代关系。通过研究和分析，我们发现AIGC在某些领域已经能够替代人类完成一些重复性、机械性的工作，但在创造性和复杂性较高的工作中，人类仍然具有不可替代的优势。同时，AIGC的发展也带来了新的就业机会，如AIGC的开发、维护和应用等方面的工作。\"\n}\n",
+                "role": "assistant"
+            }
+        }
+    ],
+    "created": 1739155419,
+    "id": "20250210104337c1bd0d963c824bef",
+    "model": "glm-zero-preview",
+    "request_id": "20250210104337c1bd0d963c824bef",
+    "usage": {
+        "completion_tokens": 114,
+        "prompt_tokens": 140,
+        "total_tokens": 254
+    }
+}

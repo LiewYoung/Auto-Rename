@@ -1,0 +1,21 @@
+{
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "\n{\n  \"answer\": \"你好，有什么我可以帮助你的吗？\",\n  \"title\": \"打招呼\"\n}\n",
+                "role": "assistant"
+            }
+        }
+    ],
+    "created": 1739155007,
+    "id": "202502101036469470bfa54e0b49f7",
+    "model": "glm-zero-preview",
+    "request_id": "202502101036469470bfa54e0b49f7",
+    "usage": {
+        "completion_tokens": 29,
+        "prompt_tokens": 130,
+        "total_tokens": 159
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "header":{
+        "Authorization": "Bearer Your api-key",
+        "Content-Type": "application/json"
+    }
+}

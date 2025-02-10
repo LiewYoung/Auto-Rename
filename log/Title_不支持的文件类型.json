@@ -1,0 +1,21 @@
+{
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "\n{\n  \"answer\": \"文件类型不支持.ini\",\n  \"title\": \"不支持的文件类型\"\n}\n",
+                "role": "assistant"
+            }
+        }
+    ],
+    "created": 1739155422,
+    "id": "202502101043412afa9883a78b48f7",
+    "model": "glm-zero-preview",
+    "request_id": "202502101043412afa9883a78b48f7",
+    "usage": {
+        "completion_tokens": 28,
+        "prompt_tokens": 133,
+        "total_tokens": 161
+    }
+}

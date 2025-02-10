@@ -1,0 +1,21 @@
+{
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "\n{\n  \"answer\": \"Unsupported file type\",\n  \"title\": \"文件类型不支持\"\n}\n",
+                "role": "assistant"
+            }
+        }
+    ],
+    "created": 1739155297,
+    "id": "202502101041362fe8275cb7d242e5",
+    "model": "glm-zero-preview",
+    "request_id": "202502101041362fe8275cb7d242e5",
+    "usage": {
+        "completion_tokens": 26,
+        "prompt_tokens": 132,
+        "total_tokens": 158
+    }
+}

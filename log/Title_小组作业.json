@@ -1,0 +1,21 @@
+{
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "\n{\n  \"answer\": \"文件类型：PowerPoint演示文稿\",\n  \"title\": \"小组作业\"\n}\n",
+                "role": "assistant"
+            }
+        }
+    ],
+    "created": 1739155421,
+    "id": "202502101043409303abcb318f464a",
+    "model": "glm-zero-preview",
+    "request_id": "202502101043409303abcb318f464a",
+    "usage": {
+        "completion_tokens": 29,
+        "prompt_tokens": 134,
+        "total_tokens": 163
+    }
+}
