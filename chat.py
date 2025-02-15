@@ -15,7 +15,7 @@ def get_titles(path,bot:Chat):
     
 
 def main():
-    chat_bot=Chat(api_key='18fe4ef8894bb43f50817a3c00703760.ckOTflSYYwlWZvHz',log=True)  
+    chat_bot=Chat(api_key='Your-api-key',log=True)  
 
     manger_path=[file_path for file_path in Path(dir).iterdir() if file_path.is_file()]
     
