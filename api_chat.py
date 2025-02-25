@@ -81,5 +81,5 @@ class Chat:
 
     
 if __name__ == '__main__':
-    chat_bot=Chat(api_key='c5ba6c82bc7d481baaaed21cf0fd3f08.WHAv1d83loHT75Ll')
+    chat_bot=Chat(api_key='')
     print(chat_bot.get_title(file_include='你好')) 
